@@ -14,8 +14,9 @@
 
 <p align="center">
   <a href="https://github.com/Archebiz"><img src="https://img.shields.io/badge/Founder-Adrian_Salazar_(@Archebiz)-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="Founder Archebiz" /></a>
-  <a href="https://github.com/HanRkz"><img src="https://img.shields.io/badge/Ecosystem-LATAM_%7C_Global-0070F3?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Global Ecosystem" /></a>
-  <img src="https://img.shields.io/badge/Architecture-Clean_Arch_%7C_DDD_%7C_Multi--Tenant-10B981?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Architecture" />
+  <a href="https://github.com/eltruforce"><img src="https://img.shields.io/badge/Co--Founder-Ichiro_Macedo_(@eltruforce)-0070F3?style=for-the-badge&logo=github&logoColor=white" alt="Co-Founder eltruforce" /></a>
+  <a href="https://github.com/HanRkz"><img src="https://img.shields.io/badge/Ecosystem-LATAM_%7C_Global-10B981?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Global Ecosystem" /></a>
+  <img src="https://img.shields.io/badge/Architecture-Clean_Arch_%7C_DDD_%7C_Multi--Tenant-blueviolet?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Architecture" />
   <img src="https://img.shields.io/badge/Stack-.NET_10_%7C_Flutter_%7C_Angular_%7C_Postgres-FF0080?style=for-the-badge" alt="Stack" />
 </p>
 
@@ -23,7 +24,7 @@
 
 ## 🧭 About HanRkz
 
-**HanRkz** is an engineering-driven software organization and technology lab founded by [**Adrian Salazar Padilla (@Archebiz)**](https://github.com/Archebiz). 
+**HanRkz** is an engineering-driven software organization and technology lab founded by [**Adrian Salazar Padilla (@Archebiz)**](https://github.com/Archebiz) and [**Ichiro Macedo (@eltruforce)**](https://github.com/eltruforce). 
 
 We architect, build, and deploy robust digital products focused on:
 - **Sports Technology & Tournament Algorithms**: End-to-end administration software for clubs, academies, and competitive circuits.
@@ -49,6 +50,8 @@ Our software philosophy marries **analytical and structural engineering rigor** 
 ![Dart](https://img.shields.io/badge/Dart_3.9+-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=primeng&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-State_Management-blueviolet?style=for-the-badge)
 
@@ -147,7 +150,7 @@ Our software philosophy marries **analytical and structural engineering rigor** 
         <sub><b>Adrian Salazar Padilla</b></sub>
       </a>
       <br />
-      <sub>Founder & Tech Lead</sub>
+      <sub>Founder & Lead Architect</sub>
       <br />
       <a href="https://github.com/Archebiz">
         <img src="https://img.shields.io/badge/GitHub-Archebiz-181717?style=flat-square&logo=github" alt="GitHub" />
@@ -160,7 +163,28 @@ Our software philosophy marries **analytical and structural engineering rigor** 
     <td>
       <h3>Adrian Salazar Padilla — Founder & Lead Architect</h3>
       <p>
-        Software engineer with a civil engineering foundation (UNMSM). Specializes in high-throughput <b>.NET (C#)</b> backend ecosystems, <b>Flutter / Angular</b> client architectures, and distributed systems design. Leads the vision, system architecture, and product development across the HanRkz ecosystem.
+        Software engineer with a civil engineering foundation (UNMSM). Specializes in high-throughput <b>.NET (C#)</b> backend ecosystems, <b>Flutter / Angular</b> client architectures, and distributed systems design. Leads the system architecture, product direction, and backend infrastructure across the HanRkz ecosystem.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/eltruforce">
+        <img src="https://github.com/eltruforce.png" width="120" style="border-radius: 50%;" alt="Ichiro Macedo" />
+        <br />
+        <sub><b>Ichiro Macedo</b></sub>
+      </a>
+      <br />
+      <sub>Founding Member & Frontend / 3D Engineer</sub>
+      <br />
+      <a href="https://github.com/eltruforce">
+        <img src="https://img.shields.io/badge/GitHub-eltruforce-181717?style=flat-square&logo=github" alt="GitHub" />
+      </a>
+    </td>
+    <td>
+      <h3>Ichiro Macedo — Founding Member & Frontend Engineer</h3>
+      <p>
+        Creative technologist and frontend engineer specializing in modern web interfaces, <b>Next.js</b>, <b>TypeScript</b>, <b>Three.js / React Three Fiber (R3F)</b>, and <b>Flutter</b>. Drives interactive user experiences, WebXR/3D visualization components, and modern client-side implementations across HanRkz projects.
       </p>
     </td>
   </tr>
@@ -171,8 +195,8 @@ Our software philosophy marries **analytical and structural engineering rigor** 
 ## 📈 Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archebiz&show_icons=true&theme=tokyonight&hide_border=true" alt="Founder GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archebiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Archebiz&show_icons=true&theme=tokyonight&hide_border=true" alt="Adrian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eltruforce&show_icons=true&theme=tokyonight&hide_border=true" alt="Ichiro's GitHub Stats" />
 </p>
 
 ---
@@ -187,7 +211,11 @@ Our software philosophy marries **analytical and structural engineering rigor** 
 **Ingeniería de software, plataformas SaaS de alto impacto, tecnología deportiva y motores de automatización empresarial.**
 
 ### 🧭 Sobre HanRkz
-**HanRkz** es una organización de desarrollo de software y laboratorio tecnológico fundada por [**Adrian Salazar Padilla (@Archebiz)**](https://github.com/Archebiz). Diseñamos soluciones digitales escalables aplicando principios de **Clean Architecture**, **Domain-Driven Design (DDD)** y rigor ingenieril.
+**HanRkz** es una organización de desarrollo de software y laboratorio tecnológico fundada por [**Adrian Salazar Padilla (@Archebiz)**](https://github.com/Archebiz) e [**Ichiro Macedo (@eltruforce)**](https://github.com/eltruforce). Diseñamos soluciones digitales escalables aplicando principios de **Clean Architecture**, **Domain-Driven Design (DDD)** y rigor ingenieril.
+
+### 👥 Fundadores y Equipo de Liderazgo
+- **[Adrian Salazar Padilla (@Archebiz)](https://github.com/Archebiz)**: Fundador y Lead Architect (.NET 10, C#, Flutter, Clean Architecture, Sistemas Distribuidos).
+- **[Ichiro Macedo (@eltruforce)](https://github.com/eltruforce)**: Miembro Fundador e Ingeniero Frontend / 3D (Next.js, TypeScript, Three.js / R3F, WebXR, Flutter).
 
 ### 🚀 Ecosistema de Productos
 1. **RallyTrackApp**: Software comercializable y personalizable para la administración integral de academias de tenis y deportes de raqueta (Flutter 3.35+, ASP.NET Core .NET 10 LTS, PostgreSQL 16, Railway).
@@ -199,14 +227,14 @@ Our software philosophy marries **analytical and structural engineering rigor** 
 
 ### 🛠️ Stack Tecnológico Principal
 - **Backend**: C#, .NET 8 / 10 LTS, ASP.NET Core Web API, Entity Framework Core, Laravel, JWT.
-- **Frontend & Móvil**: Flutter, Dart, Riverpod, Angular, TypeScript, PrimeNG, HTML5/CSS3.
+- **Frontend & Móvil**: Flutter, Dart, Riverpod, Angular, Next.js, Three.js, TypeScript, PrimeNG, HTML5/CSS3.
 - **Bases de Datos**: PostgreSQL 16, Microsoft SQL Server, MariaDB, MySQL, Firebase.
 - **DevOps e Infraestructura**: Docker, Docker Compose, Railway, Mercado Pago API, OpenXML.
 
 ### 📬 Contacto y Comunidad
 - **Organización GitHub**: [@HanRkz](https://github.com/HanRkz)
-- **Fundador & Lead Developer**: [Adrian Salazar Padilla (@Archebiz)](https://github.com/Archebiz)
-- **LinkedIn del Fundador**: [adriansalazarpadilla](https://www.linkedin.com/in/adriansalazarpadilla/)
+- **Adrian Salazar Padilla**: [@Archebiz](https://github.com/Archebiz) | [LinkedIn](https://www.linkedin.com/in/adriansalazarpadilla/)
+- **Ichiro Macedo**: [@eltruforce](https://github.com/eltruforce)
 
 </details>
 
